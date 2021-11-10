@@ -1,0 +1,20 @@
+/* 375px */
+
+@media only screen and (max-width: 375px) {
+    .whatsapp_chat {
+        width: 30px;
+        height: 30px;
+    }
+    .whatsapp_chat i {
+        font-size: 36px;
+    }
+    a.skype_chat {
+        width: 30px;
+        height: 30px;
+        bottom: 80px;
+        left: 320px;
+    }
+    .skype_chat i {
+        font-size: 36px;
+    }
+}
